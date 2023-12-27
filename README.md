@@ -1,7 +1,3 @@
-# Project Name
-
-Short description or overview of the project.
-
 ## Description
 
 This project is a Spring Boot WebFlux application that utilizes PostgreSQL as the database, R2DBC for reactive database interactions, and Flyway for database migration management.
